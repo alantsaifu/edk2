@@ -359,7 +359,7 @@ HobLib|MdePkg/Library/DxeHobLib/DxeHobLib.inf
   #
   # PEI Phase modules
   #
-  ArmPlatformPkg/PrePi/PeiUniCore.inf {
+  TexasInstrumentsPkg/BeagleBoneBlackPkg/PrePi/PeiUniCore.inf {
     <LibraryClasses>
       ArmLib|ArmPkg/Library/ArmLib/ArmV7/ArmV7Lib.inf
       ArmPlatformLib|TexasInstrumentsPkg/BeagleBoneBlackPkg/Library/Am335xLib/ArmPlatformLibNull.inf
